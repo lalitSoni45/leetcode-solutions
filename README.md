@@ -19,6 +19,7 @@ My LeetCode solutions with explanations and code, synced from VS Code.
 | [0176-second-highest-salary](https://github.com/lalitSoni45/leetcode-solutions/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/lalitSoni45/leetcode-solutions/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/lalitSoni45/leetcode-solutions/tree/master/0178-rank-scores) |
+| [0197-rising-temperature](https://github.com/lalitSoni45/leetcode-solutions/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/lalitSoni45/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/lalitSoni45/leetcode-solutions/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/lalitSoni45/leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
